@@ -1,9 +1,3 @@
-Below is a clean, well-structured **README.md** you can drop straight into GitHub.
-I kept it practical, skimmable, and GitHub-friendly.
-I also added the **Support my Work** link as requested.
-
----
-
 # UniChat – Unified Streaming Control Center
 
 **UniChat** brings Twitch, Kick, YouTube, and TikTok chat into one interface.
