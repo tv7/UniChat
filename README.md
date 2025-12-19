@@ -47,7 +47,7 @@ UniChat saves your keys automatically.
 
 1. Click **Get** next to the Token field
 2. Authorize the app in your browser
-3. Copy the URL
+3. Copy the URL after Authorization
 4. Paste it into the Twitch Token field
 5. Enter your **channel name**
 
